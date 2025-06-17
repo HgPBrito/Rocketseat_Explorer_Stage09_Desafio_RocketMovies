@@ -1,12 +1,20 @@
-# React + Vite
+# Rocketmovie
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/JonatasAS/rocketmovies/blob/main/LICENSE.md) 
 
-Currently, two official plugins are available:
+## About the project
+Rocketmovie is an initially front-end user interface application developed with a focus on React.js, intended for user use to record movies or other 
+programs including notes with information about the selected title.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Layout 
+You may be viewing the project through Figma project - [LINK](https://www.figma.com/file/NZG1X8GVL5tkYhvctPzRqb/RocketMovies-(Copy)-(Copy)?t=Z8SHU9pjGpb3iX6O-0 "Figma website"). 
 
-## Expanding the ESLint configuration
+<p align="center">
+  <img alt="rocketmovie" src="https://github.com/JonatasAS/assets/blob/main/rocketmovie.png">
+</p>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Technologies used 
+- HTML / CSS / JS
+- React / react-icons / react-router-dom
+- Vite
+- Styled-Components
